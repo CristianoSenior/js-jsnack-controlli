@@ -4,7 +4,7 @@ var msg ;
 // Chiedere all'utente di inserire la prima parola
 var primaParolaUtente = prompt("Ciao , se non hai altro da fare inserisci una paola , per favore");
 // Chiedere all'utente di inserire una seconda parola
-var secondaParolaUtente = prompt("Per favore visto che sei a casa a nonfare niente , inserisci un'altra parola");
+var secondaParolaUtente = prompt("Per favore visto che sei a casa a non hai da fare niente , inserisci un'altra parola");
 
 
 console.log(primaParolaUtente.length);

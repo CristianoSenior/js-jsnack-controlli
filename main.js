@@ -12,7 +12,7 @@ console.log(secondoNuemroUtente);
 
 // Confronto i due numeri per vedere qual è quella più lunga
 if (primoNumeroUtente > secondoNuemroUtente){
-  msg = "Il primo numero che hai scritto è più grande";
+  msg = "Il primo numero che hai scritto è più grande ed è uguale a :" + primoNumeroUtente;
 } else if (secondoNuemroUtente > primoNumeroUtente){
   msg = "Il secondo numero è più grande";
 } else{
