@@ -5,7 +5,7 @@ var primoNumeroUtente = parseInt(prompt("Ciao Alfiuccio , giochiamo un pò. Inse
 var secondoNuemroUtente = parseInt(prompt("Ora inserisci il giorno della tua nascita"));;
 var terzoNumeroUtente = parseInt(prompt(" Inserisci il numero di maglia del tuo giocatore preferito"));;
 var quartoNumeroUtente = parseInt(prompt(" Inserisci il tuo numero di scarpe "));;
-var quintoNumeroUtente = parseInt(prompt(" il numero del tup peso =D(puoi anche mentire ) "));;
+var quintoNumeroUtente = parseInt(prompt(" il numero del tuo peso =D(puoi anche mentire , ma non devi farlo per forza ) "));;
 
 
 

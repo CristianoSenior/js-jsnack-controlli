@@ -1,0 +1,22 @@
+.flex{
+  display: flex;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+}
+
+
+h1{
+  color:orange;
+}
+
+h1:hover{
+  font-size: 70px;
+  background-color: yellow;
+  color: red;
+  border:80px solid yellow;
+  border-radius: 100%;
+  padding: 30px;
+}
