@@ -9,5 +9,5 @@ var quintoNumeroUtente = parseInt(prompt(" il numero del tuo peso =D(puoi anche 
 
 
 
-document.getElementById("numerisommati").innerHTML = primoNumeroUtente + secondoNuemroUtente + terzoNumeroUtente + quartoNumeroUtente + quintoNumeroUtente;
+document.getElementById("numerisommati").innerHTML =primoNumeroUtente + secondoNuemroUtente + terzoNumeroUtente + quartoNumeroUtente + quintoNumeroUtente;
 console.log(document);

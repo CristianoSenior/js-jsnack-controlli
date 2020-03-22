@@ -3,20 +3,23 @@
   background-color: black;
   justify-content: center;
   align-items: center;
-
   height: 100vh;
+  background-image: url("numeri.jpg");
+  background-size: cover;
 }
 
 
 h1{
   color:orange;
+  transition: all 4s ease;
+
 }
 
 h1:hover{
   font-size: 70px;
   background-color: yellow;
   color: red;
-  border:80px solid yellow;
+  border:100px solid yellow;
   border-radius: 100%;
   padding: 30px;
 }
